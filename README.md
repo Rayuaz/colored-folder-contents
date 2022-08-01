@@ -1,3 +1,6 @@
+# This module is deprecated
+Maintenence has been taken over by Doresain. His version is available at https://github.com/dor-fvtt-scratch/colored-folder-contents
+
 # Colored Folder Contents
 A simple module to apply folders' background colors to their contents.
 
